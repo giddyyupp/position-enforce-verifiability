@@ -1,0 +1,14 @@
+torch >= 2.7
+torchvision
+numpy
+lmdeploy
+pypdf
+pdfplumber
+httpx 
+beautifulsoup4 
+lxml 
+tqdm
+requests
+feedparser
+json-repair 
+orjson
