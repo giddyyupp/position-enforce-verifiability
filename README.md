@@ -146,10 +146,10 @@ In the `metric_notebooks` folder, we share two example python notebooks for the 
 If you find this work useful, please cite:
 
 ```bibtex
-@article{YOUR_BIBTEX_KEY,
-  title   = {YOUR PAPER TITLE},
-  author  = {YOUR AUTHORS},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+@article{position2026hicsonmez,
+  title   = {Position: Let’s Strengthen Verifiability If We Can’t Enforce Reproducibility},
+  author  = {Samet Hicsonmez, Nermin Samet, Renaud Marlet},
+  journal = {NeurIPS},
   year    = {2026}
 }
 ```
