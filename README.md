@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="PAPER_URL"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="Paper"></a>
+  <a href="http://arxiv.org/abs/2609.35854"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="Paper"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-blue" alt="Citation"></a>
 </p>
 
